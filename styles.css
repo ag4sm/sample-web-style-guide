@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2 {
+    text-align: center;
+    padding-bottom: 20px;
+    color: black;
+}
+
+section {
+    margin: 30px;
+    padding: 15px;
+    border: 1px solid blue;
+}
+
+#color {
+    color: white;
+}
+
+div {
+    height: 200px;
+    width: 33%;
+    display: inline-block;
+}
+
+div h3 {
+    text-align: center;
+    margin: 40px auto;
+}
+
+/* Colors used here are Nepal #90AFC5, Ship Gray #3E363F, and Boticelli #C4DFE6 */
+
+#nepal {
+    background-color: #90AFC5;
+}
+
+#shipgray {
+    background-color: #3E363F;
+}
+
+#boticelli {
+    color: #3E363F;
+    background-color: #C4DFE6;
+}
+
+.font-display {
+    border: 1px solid green;
+    border-radius: 10px;
+    font-size: 1.6em;
+    line-height: 1.5em;
+}
+
+.font-label {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.archivo {
+    font-family: 'Archivo';
+}
+
+.archivo-narrow {
+    font-family: 'Archivo Narrow';
+}
+
+.Joan {
+    font-family: Joan;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+#text {
+    padding-left: 50px;
+}
+
+#text h1,h2 {
+    text-align: left;
+}
